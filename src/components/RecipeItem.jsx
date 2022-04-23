@@ -5,7 +5,6 @@ const RecipeItem = ({ recipe }) => {
     strArea,
     strInstructions,
     strMealThumb,
-    strTags,
     strYoutube,
   } = recipe[0];
   return (
